@@ -5,4 +5,4 @@ Someday will do this stuff:
 - let you know if you are heading the object near you
 
 TODOs:
-- transforma compass to  a radar
+- transform compass to  a radar
